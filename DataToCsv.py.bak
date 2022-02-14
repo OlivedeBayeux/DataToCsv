@@ -7,7 +7,7 @@ en_tete = ["nom", "salaire"]
 
 # Créer un nouveau fichier pour écrire dans le fichier appelé « output.csv »
 with open('output.csv', 'w') as fichier_csv_out:
-    # Créer un objet writer (écriture) avec ce fichier
+    # Créer un objet writer (écriture) avec ce fichier test MODIFICATION DEPUIS GITHUB
     writer = csv.writer(fichier_csv_out, delimiter=',')
     # Injection entete
     writer.writerow(en_tete)
