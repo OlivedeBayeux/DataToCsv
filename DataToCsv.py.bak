@@ -1,6 +1,6 @@
 ﻿import csv
 
-# Ecrivez le code ci-dessous. Utilisez le package csv ! Test commit2hhhhhhhhhh
+# Ecrivez le code ci-dessous. Utilisez le package csv ! 
 
 # Créer une en-têtes de sortie
 en_tete = ["nom", "salaire"]

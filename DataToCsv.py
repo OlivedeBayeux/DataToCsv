@@ -1,4 +1,4 @@
-﻿import csv
+import csv
 
 # Ecrivez le code ci-dessous. Utilisez le package csv ! 
 
